@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fonts/element-icons.732389de.ttf"
   },
   {
-    "revision": "cf0ad1364c76fc98ac183219bc1b4681",
+    "revision": "02e6f7928716b0d20dd79410dfe6980d",
     "url": "/index.html"
   },
   {
